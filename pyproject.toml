@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Elias Gabriel",email = "me@eliasfgabriel.com"},
+]
+dependencies = [
+    "selenium>=4.10.0",
+    "webdriver-manager>=3.8.6",
+]
+requires-python = ">=3.7"
+readme = "README.md"
+license = {text = "MIT"}
